@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>460072309622-6o1nlickcfm59eppema18bim7amavfm9.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.460072309622-6o1nlickcfm59eppema18bim7amavfm9</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>460072309622-1gd9q6nes83tb87e28evts9fi3vksp3q.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyA05A6gVfB3ILwxff01-lfFimBJsMuNPD8</string>
+	<key>GCM_SENDER_ID</key>
+	<string>460072309622</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.fintechapp.home</string>
+	<key>PROJECT_ID</key>
+	<string>fintech22-c2bbf</string>
+	<key>STORAGE_BUCKET</key>
+	<string>fintech22-c2bbf.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:460072309622:ios:825e56f80d9ca2aa8c2057</string>
+	<key>DATABASE_URL</key>
+	<string>https://fintech22-c2bbf-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
